@@ -2,6 +2,12 @@
 
 * [Personal Website](https://himpe.science)
 
+## My Research Interests
+
+* Scientific Commputing
+* Numerical System Theory
+* Data-Driven Model Reduction
+
 ## My Main Repositories
 
 * [emgr -- EMpirical Gramian Framework](https://github.com/gramian/emgr)
