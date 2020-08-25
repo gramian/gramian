@@ -10,7 +10,7 @@
 
 ## My Main Repositories
 
-* [emgr -- EMpirical Gramian Framework](https://github.com/gramian/emgr)
+* [emgr -- EMpirical GRamian Framework](https://github.com/gramian/emgr)
 * [HAPOD -- Hierarchical Approximate Proper Orthogonal Decomposition](https://github.com/gramian/hapod)
 * [Racket Fingerpost](https://github.com/gramian/racket-fingerpost)
 * [code.ini -- Code Meta Data](https://github.com/gramian/code-ini)
