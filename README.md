@@ -11,9 +11,8 @@
 ## My Main Repositories
 
 * [emgr -- EMpirical GRamian Framework](https://github.com/gramian/emgr)
-* [HAPOD -- Hierarchical Approximate Proper Orthogonal Decomposition](https://github.com/gramian/hapod)
-* [Racket Fingerpost](https://github.com/gramian/racket-fingerpost)
-* [code.ini -- Code Meta Data](https://github.com/gramian/code-ini)
+* [hapod -- Hierarchical Approximate Proper Orthogonal Decomposition](https://github.com/gramian/hapod)
+* [morgen -- Model Order Reduction for Gas and Energy Networks](https://github.com/gramian/morgen)
 
 ## My Main Gists
 
