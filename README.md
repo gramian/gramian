@@ -19,3 +19,9 @@
 * [Flamegraphs for Octave](https://gist.github.com/7807c670588d10adbfca9add73daeda2)
 * [MATLAB and Octave Snippets](https://gist.github.com/6027733)
 * [Build Octave from Source](https://gist.github.com/cd245d7dea271bcaae9967c93327429a)
+
+## My Contributions
+
+* [FlexiBLAS](https://github.com/mpimd-csc/flexiblas)
+* [qrupdate-ng](https://github.com/mpimd-csc/qrupdate-ng)
+* [octave](https://octave.org)
