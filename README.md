@@ -7,6 +7,7 @@
 * Scientific Commputing
 * Numerical System Theory
 * Data-Driven Model Reduction
+* Computational Science & Engineering
 
 ## My Main Repositories
 
@@ -19,9 +20,11 @@
 * [Flamegraphs for Octave](https://gist.github.com/7807c670588d10adbfca9add73daeda2)
 * [MATLAB and Octave Snippets](https://gist.github.com/6027733)
 * [Build Octave from Source](https://gist.github.com/cd245d7dea271bcaae9967c93327429a)
+* [versioninfo](https://gist.github.com/gramian/3bc06a63cfdc7e400aefe1278caf1980)
 
 ## My Contributions
 
+* [M-M.E.S.S](https://github.com/mpimd-csc/mmess)
 * [FlexiBLAS](https://github.com/mpimd-csc/flexiblas)
 * [qrupdate-ng](https://github.com/mpimd-csc/qrupdate-ng)
 * [octave](https://octave.org)
