@@ -27,4 +27,4 @@
 * [M-M.E.S.S](https://github.com/mpimd-csc/mmess)
 * [FlexiBLAS](https://github.com/mpimd-csc/flexiblas)
 * [qrupdate-ng](https://github.com/mpimd-csc/qrupdate-ng)
-* [octave](https://octave.org)
+* [octave](https://github.com/gnu-octave/octave)
