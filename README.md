@@ -22,7 +22,7 @@
 * [Build Octave from Source](https://gist.github.com/cd245d7dea271bcaae9967c93327429a)
 * [versioninfo](https://gist.github.com/gramian/3bc06a63cfdc7e400aefe1278caf1980)
 
-## My Contributions
+## Contributed To
 
 * [M-M.E.S.S](https://github.com/mpimd-csc/mmess)
 * [FlexiBLAS](https://github.com/mpimd-csc/flexiblas)
