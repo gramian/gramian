@@ -4,7 +4,7 @@
 
 ## My Research Interests
 
-* Scientific Commputing
+* Scientific Computing
 * Numerical System Theory
 * Data-Driven Model Reduction
 * Computational Science & Engineering
