@@ -20,6 +20,7 @@
 * [Flamegraphs for Octave](https://gist.github.com/7807c670588d10adbfca9add73daeda2)
 * [MATLAB and Octave Snippets](https://gist.github.com/6027733)
 * [Build Octave from Source](https://gist.github.com/cd245d7dea271bcaae9967c93327429a)
+* [Build CHICKEN from Source](https://gist.github.com/gramian/99350e71aed592e027679276b7944f82)
 * [versioninfo](https://gist.github.com/gramian/3bc06a63cfdc7e400aefe1278caf1980)
 
 ## Contributed To
