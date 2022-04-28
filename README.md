@@ -14,6 +14,7 @@
 * [emgr -- EMpirical GRamian Framework](https://github.com/gramian/emgr)
 * [hapod -- Hierarchical Approximate Proper Orthogonal Decomposition](https://github.com/gramian/hapod)
 * [morgen -- Model Order Reduction for Gas and Energy Networks](https://github.com/gramian/morgen)
+* [matrico -- A flonum matrix module for CHICKEN Scheme](https://github.com/gramian/matrico)
 
 ## My Main Gists
 
