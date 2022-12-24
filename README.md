@@ -12,7 +12,7 @@
 
 ## My Main Repositories
 
-* [chicken-arcade -- A CHICKEN Scheme driver for ArcadeDB](https://github.com/gramian/chicken-arcadedb) (Scheme)
+* [chicken-arcadedb -- A CHICKEN Scheme driver for ArcadeDB](https://github.com/gramian/chicken-arcadedb) (Scheme)
 * [matrico -- A flonum matrix module for CHICKEN Scheme](https://github.com/gramian/matrico) (Scheme)
 * [morgen -- Model Order Reduction for Gas and Energy Networks](https://github.com/gramian/morgen) (MATLAB/Octave)
 * [hapod -- Hierarchical Approximate Proper Orthogonal Decomposition](https://github.com/gramian/hapod) (MATLAB/Octave)
