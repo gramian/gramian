@@ -5,7 +5,7 @@
 ## My Development Interests
 
 * Metadata Lakes
-* SQL, NoSQL, NewSQL Databases
+* Metadata Catalogs
 * Data-Driven Model Reduction
 * System Theory
 * Scientific Computing
