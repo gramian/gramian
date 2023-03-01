@@ -24,7 +24,7 @@
 * [MATLAB and Octave Snippets](https://gist.github.com/6027733) (MATLAB/Octave)
 * [versioninfo](https://gist.github.com/gramian/3bc06a63cfdc7e400aefe1278caf1980) (MATLAB/Octave)
 * [Build Octave from Source](https://gist.github.com/cd245d7dea271bcaae9967c93327429a) (Bash)
-* [Build CHICKEN from Source](https://gist.github.com/gramian/99350e71aed592e027679276b7944f82) (Bash)
+* [Chicken Scheme Dockerfile](https://gist.github.com/gramian/d57db7688007bd50ed789c6ab20de5b2) (Dockerfile)
 
 ## Contributed To
 
