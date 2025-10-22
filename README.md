@@ -1,5 +1,7 @@
 # Christian Himpe
 
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,clojure,matlab,octave,latex,md)](https://skillicons.dev)  
+
 * [Personal Website](https://himpe.science)
 
 ## My Development Interests
