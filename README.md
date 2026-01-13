@@ -1,6 +1,6 @@
 # Christian Himpe
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,clojure,matlab,octave,latex,md)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,gitlab,docker,matlab,octave,latex,md)](https://skillicons.dev)  
 
 * [Personal Website](https://himpe.science)
 
@@ -9,7 +9,7 @@
 * Metadata Lakes
 * Metadata Catalogs
 * Data-Driven Model Reduction
-* System Theory
+* Mathematical System Theory
 * Scientific Computing
 
 ## My Main Repositories
