@@ -6,11 +6,11 @@
 
 ## My Development Interests
 
-* Metadata Lakes
-* Metadata Catalogs
+* Metadata Lakes / Metadata Catalogs
 * Data-Driven Model Reduction
 * Mathematical System Theory
 * Scientific Computing
+* Scheme Lisps
 
 ## My Main Repositories
 
@@ -26,7 +26,7 @@
 * [MATLAB and Octave Snippets](https://gist.github.com/6027733) (MATLAB/Octave)
 * [versioninfo](https://gist.github.com/gramian/3bc06a63cfdc7e400aefe1278caf1980) (MATLAB/Octave)
 * [Build Octave from Source](https://gist.github.com/cd245d7dea271bcaae9967c93327429a) (Bash)
-* [Chicken Scheme Dockerfile](https://gist.github.com/gramian/d57db7688007bd50ed789c6ab20de5b2) (Dockerfile)
+* [KATE Lisp Syntax Highlighting](https://gist.github.com/gramian/b1ec67c9c8ec8ba69e7a368467c40438) (XML)
 
 ## Contributed To
 
